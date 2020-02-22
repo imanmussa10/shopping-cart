@@ -1,0 +1,14 @@
+
+.navbar{
+    width:100vw;
+    height: 60px;
+}
+
+.row{
+    height:70vh;
+    background-repeat: no-repeat;
+    width:100%;
+    background-size:contain;
+    text-align: center;
+    
+}
