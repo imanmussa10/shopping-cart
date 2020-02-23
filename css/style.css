@@ -12,3 +12,6 @@
     text-align: center;
     
 }
+.carousel-item{
+    width:100vw;
+}
