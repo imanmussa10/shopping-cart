@@ -3,6 +3,17 @@
     width:100vw;
     height: 60px;
 }
+.cart ion-icon{
+    padding-right:10px;
+    vertical-align:bottom;
+    font:size 25px;
+}
+.cart a{
+    background-color:whitesmoke;
+    color: burlywood;
+    cursor: pointer;
+    text-decoration:none;
+}
 
 .row{
     height:70vh;
